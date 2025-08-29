@@ -1,0 +1,145 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyO9mR6tc2chO5/Sk7iOMK+M",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/scapfurado/Joao-vitor-S-n-21-1-tri/blob/main/JoaoScapini_21_3tri.colab\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##aula1"
+      ],
+      "metadata": {
+        "id": "i9O4Fj8O1JBZ"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "RoHqumfj0Ahn",
+        "outputId": "8ddce434-07dc-41cc-f51e-69449de758e3"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Competição de programação do start\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Competição de programação do start\")"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "ano = \"II\"\n",
+        "print(ano, \"Competição de programação do Start\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "rE5VsKYH0qI0",
+        "outputId": "a3675778-9e01-4402-cfa4-5197089c1bdd"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "II Competição de programação do Start\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(f\"{ano} Competição de programação do Start\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "_pWUd6Zx1eEe",
+        "outputId": "9ce6194a-c336-49c3-ff50-c22adcc2b9e5"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "II Competição de programação do Start\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##aula2\n"
+      ],
+      "metadata": {
+        "id": "924fJkeG1ugR"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "livro_ficcao = 10\n",
+        "livro_nficcao = 8\n",
+        "livro_infantil = 6\n",
+        "pontos_rodrigo = livro_ficcao + livro_nficcao + livro_infantil\n",
+        "print(f\"Os pontos totais do Rodrigo são: {pontos_rodrigo}\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "mRjqZ6F810ii",
+        "outputId": "0b2dac5a-62cd-4024-d7ff-c1b6fc62fbef"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Os pontos totais do Rodrigo são: 24\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
